@@ -1,0 +1,35 @@
+body {}
+
+ul {
+    list-style-type: none;
+    display: inline-flex;
+    right: 0;
+    position: absolute;
+}
+
+li {}
+
+
+a {
+    margin-right: 10px;
+}
+
+h1 {}
+
+nav {
+    display: inline-flex;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    width: 100%;
+}
+
+img {
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+/* .bodydiv {
+    display: inline-block;
+} */
